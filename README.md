@@ -1,6 +1,6 @@
 # Supply-Chain
 Lean Supply Chain Management
-GROUP MEMBERS
+
 Team Member : Akshata Kanumuri,Joshua Rodgers,Jose Corona
 
 PROJECT TITLE: LEAN SUPPLY CHAINS
